@@ -1,0 +1,145 @@
+date,slot,id,name
+1/1/2023,opening,85,
+1/1/2023,sacrament,177,
+1/1/2023,intermediate,,
+1/1/2023,closing,117,
+1/8/2023,opening,83,
+1/8/2023,sacrament,182,
+1/8/2023,intermediate,98,
+1/8/2023,closing,3,
+1/15/2023,opening,5,
+1/15/2023,sacrament,175,
+1/15/2023,intermediate,131,
+1/15/2023,closing,106,
+1/22/2023,opening,6,
+1/22/2023,sacrament,171,
+1/22/2023,intermediate,304,
+1/22/2023,closing,219,
+1/29/2023,opening,30,
+1/29/2023,sacrament,195,
+1/29/2023,intermediate,130,
+1/29/2023,closing,152,
+2/5/2023,opening,243,
+2/5/2023,sacrament,196,
+2/5/2023,intermediate,,
+2/5/2023,closing,163,
+2/12/2023,opening,140,
+2/12/2023,sacrament,194,
+2/12/2023,intermediate,,
+2/12/2023,closing,81,
+2/19/2023,opening,116,
+2/19/2023,sacrament,197,
+2/19/2023,intermediate,308,
+2/19/2023,closing,274,
+2/26/2023,opening,136,
+2/26/2023,sacrament,180,
+2/26/2023,intermediate,125,
+2/26/2023,closing,264,
+3/5/2023,opening,237,
+3/5/2023,sacrament,170,
+3/5/2023,intermediate,,
+3/5/2023,closing,153,
+3/12/2023,opening,52,
+3/12/2023,sacrament,173,
+3/12/2023,intermediate,113,
+3/12/2023,closing,111,
+3/19/2023,opening,280,
+3/19/2023,sacrament,172,
+3/19/2023,intermediate,241,
+3/19/2023,closing,129,
+3/26/2023,opening,301,
+3/26/2023,sacrament,176,
+3/26/2023,intermediate,,
+3/26/2023,closing,165,
+4/9/2023,opening,199,
+4/9/2023,sacrament,193,
+4/9/2023,closing,136,
+4/16/2023,opening,26,
+4/16/2023,sacrament,184,
+4/16/2023,intermediate,227,
+4/16/2023,closing,66,
+4/23/2023,opening,62,
+4/23/2023,sacrament,169,
+4/23/2023,intermediate,270,
+4/23/2023,closing,143,
+4/30/2023,opening,58,
+4/30/2023,sacrament,195,
+4/30/2023,intermediate,298,
+4/30/2023,closing,249,
+5/7/2023,opening,86,
+5/7/2023,sacrament,192,
+5/7/2023,intermediate,,
+5/7/2023,closing,166,
+5/14/2023,opening,304,
+5/14/2023,sacrament,141,
+5/14/2023,intermediate,142,
+5/14/2023,closing,92,
+5/21/2023,opening,30,
+5/21/2023,sacrament,181,
+5/21/2023,intermediate,220,
+5/21/2023,closing,156,
+05/28/2023,opening,85,
+05/28/2023,sacrament,174,
+05/28/2023,intermediate,98,
+05/28/2023,closing,117,
+06/04/2023,opening,67,
+06/04/2023,intermediate,81,
+06/04/2023,closing,166,
+06/04/2023,opening,6,
+06/04/2023,intermediate,301,
+06/04/2023,closing,220,
+06/11/2023,opening,7,
+06/11/2023,sacrament,187,
+06/11/2023,closing,138,
+06/18/2023,opening,292,
+06/18/2023,sacrament,170,
+06/18/2023,intermediate,129,
+06/18/2023,closing,308,
+06/25/2023,opening,96,"Dearest Children, God Is Near You"
+06/25/2023,sacrament,190,"In Memory of the Crucified"
+06/25/2023,intermediate,89,"The Lord Is My Light"
+07/02/2023,closing,277,"As I Search the Holy Scriptures"
+07/02/2023,opening,100,"Nearer, My God, To Thee"
+07/02/2023,sacrament,146,"Gently Raise the Sacred Strain"
+07/02/2023,closing,263,"Go Forth with Faith"
+07/09/2023,opening,134,"I Believe in Christ"
+07/09/2023,sacrament,178,"O Lord of Hosts"
+07/09/2023,intermediate,147,"Sweet Is the Work"
+07/09/2023,closing,137,"Testimony"
+07/16/2023,opening,294,"Love at Home"
+07/16/2023,sacrament,183,"In Rememberance of Thy Suffering"
+07/16/2023,intermediate,223,"Have I Done Any Good?"
+07/16/2023,closing,303,"Keep the Commandments"
+07/23/2023,opening,30,"Come, Come, Ye Saints"
+07/23/2023,sacrament,179,"Again, Our Dear Redeeming Lord"
+07/23/2023,intermediate,252,"Put Your Shoulder to the Wheel"
+07/23/2023,closing,302,"I Know My Father Lives"
+07/30/2023,opening,239,"Choose the Right"
+07/30/2023,sacrament,188,"Thy Will, O Lord, Be Done"
+07/30/2023,intermediate,228,"You Can Make the Pathway Bright"
+07/30/2023,closing,97,"Lead, Kindly Light"
+08/05/2023,opening,264,"Hark, All Ye Nations!"
+08/05/2023,sacrament,191,"Behold the Great Redeemer Die"
+08/05/2023,closing,124,"Be Still, My Soul"
+08/13/2023,opening,5,"High on the Mountain Top"
+08/13/2023,sacrament,185,"Reverently and Meekly Now"
+08/13/2023,closing,60,"Battle Hymn of the Republic"
+08/20/2023,opening,259,"Hope of Israel"
+08/20/2023,sacrament,175,"O God, the Eternal Father"
+08/20/2023,intermediate,3,"Now Let Us Rejoice"
+08/20/2023,closing,243,"Let Us All Press On"
+08/27/2023,opening,241,"Count Your Blessings"
+08/27/2023,sacrament,177,"Tis Sweet to Sing the Matchless Love (HANCOCK)"
+08/27/2023,intermediate,144,"Secret Prayer"
+08/27/2023,closing,131,"More Holiness Give Me"
+09/03/2023,opening,219,"Because I Have Been Given Much"
+09/03/2023,sacrament,194,"There Is a Green Hill Far Away"
+09/03/2023,closing,152,"God Be with You Till We Meet Again"
+09/10/2023,opening,113,"Our Savior's Love"
+09/10/2023,sacrament,182,"We'll Sing All Hail to Jesus' Name"
+09/10/2023,intermediate,66,"Rejoice, the Lord Is King!"
+09/10/2023,closing,274,"The Iron Rod"
+09/17/2023,opening,280,"Welcome, Welcome, Sabbath Morning"
+09/17/2023,sacrament,171,"With Humble Heart"
+09/17/2023,intermediate,140,"Did you Think to Pray?"
+09/17/2023,closing,125,"How Gentle God's Commands"
