@@ -43,7 +43,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 42,Hail to the Brightness of Zion's Glad Morning!,28,2:38,3,,,0,1,0
 43,Zion Stands with Hills Surrounded,11,2:56,2,,1,0,1,0
 44,"Beautiful Zion, Built Above",106,3:58,5,,,0,1,0
-45,Lead Me into Life Eternal,160,1:35,7,,,0,1,0
+45,Lead Me into Life Eternal,160,1:35,7,-1,,0,1,0
 46,Glorious Things of Thee Are Spoken,20,2:58,3,,,0,1,0
 47,We Will Sing of Zion,34,2:05,3,,,0,1,0
 48,Glorious Things Are Sung of Zion,9,3:24,2,,,0,1,0
@@ -82,7 +82,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 81,"Press Forward, Saints",348,2:27,9,,,0,1,0
 82,For All the Saints,56,,4,,,0,1,0
 83,"Guide Us, O Thou Great Jehovah",197,2:23,7,,,0,1,0
-84,Faith of Our Fathers,163,2:43,7,,,0,1,0
+84,Faith of Our Fathers,163,2:43,7,-1,,0,1,0
 85,How Firm a Foundation,526,2:42,10,,,0,1,0
 86,How Great Thou Art,259,,8,,,0,1,0
 87,God Is Love,144,2:59,6,,,0,1,0
@@ -103,7 +103,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 102,"Jesus, Lover of My Soul",76,2:06,5,,,0,1,0
 103,"Precious Savior, Dear Redeemer",138,2:26,6,,,0,1,0
 104,"Jesus, Savior, Pilot Me",99,2:10,5,,,0,1,0
-105,"Master, the Tempest Is Raging",151,4:13,6,,,0,1,0
+105,"Master, the Tempest Is Raging",151,4:13,6,2,,0,1,0
 106,God Speed the Right,185,1:47,7,,,0,1,0
 107,"Lord, Accept Our True Devotion",140,3:00,6,,,0,1,0
 108,The Lord Is My Shepherd,146,3:12,6,,,0,1,0
@@ -156,12 +156,12 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 155,We Have Partaken of Thy Love,43,2:15,4,,,0,1,0
 156,Sing We Now at Parting,244,2:47,8,,,0,1,0
 157,"Thy Spirit, Lord, Has Stirred Our Souls",167,1:39,7,,,0,1,0
-158,"Before Thee, Lord, I Bow My Head",158,4:04,7,,,0,1,0
+158,"Before Thee, Lord, I Bow My Head",158,4:04,7,-1,,0,1,0
 159,Now the Day Is Over,19,1:36,3,,,0,1,0
 160,Softly Now the Light of Day,8,0:51,2,,,0,1,0
 161,The Lord Be with Us,33,2:05,3,,,0,1,0
 162,"Lord, We Come before Thee Now",22,2:38,3,,,0,1,0
-163,"Lord, Dismiss Us with Thy Blessing",258,1:40,8,,,0,1,0
+163,"Lord, Dismiss Us with Thy Blessing",258,1:40,8,-1,,0,1,0
 164,"Great God, to Thee My Evening Song",6,2:25,1,,,0,1,0
 165,Abide with Me; 'Tis Eventide,132,3:32,6,,,0,1,0
 166,Abide with Me!,184,2:57,7,,,0,1,0
@@ -187,7 +187,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 186,Again We Meet around the Board,254,2:57,8,,,1,0,0
 187,"God Loved Us, So He Sent His Son",692,1:46,10,,,1,0,0
 188,"Thy Will, O Lord, Be Done",393,2:18,10,,,1,0,0
-189,"O Thou, Before the World Began",180,3:06,7,,,1,0,0
+189,"O Thou, Before the World Began",180,3:06,7,-1,,1,0,0
 190,In Memory of the Crucified,549,2:32,10,,,1,0,0
 191,Behold the Great Redeemer Die,601,3:19,10,,,1,0,0
 192,He Died! The Great Redeemer Died,535,3:05,10,,,1,0,0
