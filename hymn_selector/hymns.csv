@@ -132,7 +132,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 131,More Holiness Give Me,338,2:49,9,,,0,1,0
 132,God Is in His Holy Temple,14,1:50,2,,,0,1,0
 133,Father in Heaven,137,2:41,6,,,0,1,0
-134,I Believe in Christ,453,5:00,10,,,0,1,0
+134,I Believe in Christ,453,5:00,10,-2,,0,1,0
 135,My Redeemer Lives,201,1:39,7,,,0,1,0
 136,I Know That My Redeemer Lives,528,4:19,10,,,0,1,0
 137,Testimony,255,2:13,8,,,0,1,0
@@ -155,7 +155,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 154,"Father, This Hour Has Been One of Joy",12,0:55,2,,,0,1,0
 155,We Have Partaken of Thy Love,43,2:15,4,,,0,1,0
 156,Sing We Now at Parting,244,2:47,8,,,0,1,0
-157,"Thy Spirit, Lord, Has Stirred Our Souls",167,1:39,7,,,0,1,0
+157,"Thy Spirit, Lord, Has Stirred Our Souls",167,1:39,7,-1,,0,1,0
 158,"Before Thee, Lord, I Bow My Head",158,4:04,7,-1,,0,1,0
 159,Now the Day Is Over,19,1:36,3,,,0,1,0
 160,Softly Now the Light of Day,8,0:51,2,,,0,1,0
