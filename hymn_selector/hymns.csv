@@ -1,5 +1,5 @@
 id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_general,is_holiday
-1,The Morning Breaks,100,3:55,5,,,0,1,0
+1,The Morning Breaks,100,3:55,5,2,,0,1,0
 2,The Spirit of God,374,5:55,9,,1,0,1,0
 3,Now Let Us Rejoice,453,3:29,10,,,0,1,0
 4,Truth Eternal,81,2:03,5,,,0,1,0
@@ -122,7 +122,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 121,"I'm a Pilgrim, I'm a Stranger",5,2:44,1,,,0,1,0
 122,Though Deepening Trials,58,3:15,4,,,0,1,0
 123,"Oh, May My Soul Commune with Thee",130,2:38,6,,,0,1,0
-124,"Be Still, My Soul",200,,7,,,0,1,0
+124,"Be Still, My Soul",200,,7,2,,0,1,0
 125,How Gentle God's Commands,272,2:27,8,,,0,1,0
 126,"How Long, O Lord Most Holy and True",7,2:59,2,,,0,1,0
 127,Does the Journey Seem Long?,39,2:40,3,,,0,1,0
@@ -228,7 +228,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 227,There Is Sunshine in My Soul Today,295,3:12,9,,,0,1,0
 228,You Can Make the Pathway Bright,196,3:16,7,,,0,1,0
 229,"Today, While the Sun Shines",83,2:32,5,,,0,1,0
-230,Scatter Sunshine,128,2:48,6,,,0,1,0
+230,Scatter Sunshine,128,2:48,6,1,,0,1,0
 231,"Father, Cheer our Souls Tonight",17,2:20,2,,,0,1,0
 232,Let Us Oft Speak Kind Words,120,2:53,6,,,0,1,0
 233,"Nay, Speak No Ill",24,2:47,3,,,0,1,0
@@ -346,9 +346,18 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 1004,I Will Walk with Jesus,,3:03,1,,,0,0,0
 1005,His Eye Is on the Sparrow,,3:47,1,,,0,0,0
 1006,Think a Sacred Song,,1:17,1,,,0,0,0
-1007,As Bread Is Broken,,2:06,10,3,,1,0,0
+1007,As Bread Is Broken,,2:06,8,3,,1,0,0
 1008,"Bread of Life, Living Water",,3:10,8,3,,1,0,0
 1009,Gethsemane,,2:46,1,,,0,0,0
+1010,Amazing Grace,,,10,,,0,1,0
+1011,Holding Hands Around the World,,,7,,,0,0,0
+1012,"Anytime, Anywhere",,,1,,,0,0,0
+1013,God's Gracious Love,,,7,2,,0,1,0
+1014,My Shepherd Will Supply My Need,,,9,3,,0,1,0
+1015,"Oh, the Deep, Deep Love of Jesus",,,1,,,0,1,0
+1016,Behold the Wounds in Jesus' Hands,,,7,3,,1,0,0
+1017,This Is the Christ,,,9,,,0,0,0
+1018,"Come, Lord Jesus",,,9,,,0,0,0
 1201,Hail the Day that Sees Him Rise,,2:55,9,3,,0,0,1
 1202,"He is Born, the Divine Christ Child",,2:06,9,3,,0,0,1
 1203,What Child is This,,2:32,10,3,,0,0,1
