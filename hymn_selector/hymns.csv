@@ -161,10 +161,10 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 160,Softly Now the Light of Day,8,0:51,2,,,0,1,0
 161,The Lord Be with Us,33,2:05,3,,,0,1,0
 162,"Lord, We Come before Thee Now",22,2:38,3,,,0,1,0
-163,"Lord, Dismiss Us with Thy Blessing",258,1:40,8,-2,,0,1,0
+163,"Lord, Dismiss Us with Thy Blessing",258,1:40,8,-3,,0,1,0
 164,"Great God, to Thee My Evening Song",6,2:25,1,,,0,1,0
-165,"Abide with Me, 'Tis Eventide",132,3:32,6,,,0,1,0
-166,Abide with Me!,184,2:57,7,,,0,1,0
+165,"Abide with Me, 'Tis Eventide",132,3:32,6,3,,0,1,0
+166,Abide with Me!,184,2:57,7,1,,0,1,0
 167,"Come, Let Us Sing an Evening Hymn",7,2:20,2,,,0,1,0
 168,As the Shadows Fall,11,1:29,2,,,0,1,0
 169,As Now We Take the Sacrament,764,3:01,10,,,1,0,0
@@ -257,7 +257,7 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 256,As Zion's Youth in Latter Days,66,2:32,4,,,0,1,0
 257,Rejoice! A Glorious Sound Is Heard,7,2:17,2,,,0,1,0
 258,O Thou Rock of Our Salvation,127,3:16,6,,,0,1,0
-259,Hope of Israel,208,3:01,7,,,0,1,0
+259,Hope of Israel,208,3:01,7,,1,0,1,0
 260,Who's on the Lord's Side?,108,3:07,5,,,0,1,0
 261,Thy Servants Are Prepared,7,1:29,2,,,0,1,0
 262,"Go, Ye Messengers of Glory",7,2:34,2,,,0,1,0
@@ -344,20 +344,20 @@ id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_ge
 1002,When the Savior Comes Again,,2:26,1,,,0,0,0
 1003,It Is Well With My Soul,,3:21,9,3,,0,1,0
 1004,I Will Walk with Jesus,,3:03,1,,,0,0,0
-1005,His Eye Is on the Sparrow,,3:47,1,,,0,0,0
+1005,His Eye Is on the Sparrow,,3:47,7,,,0,1,0
 1006,Think a Sacred Song,,1:17,1,,,0,0,0
 1007,As Bread Is Broken,,2:06,8,3,,1,0,0
 1008,"Bread of Life, Living Water",,3:10,8,3,,1,0,0
-1009,Gethsemane,,2:46,1,,,0,0,0
-1010,Amazing Grace,,,10,,,0,1,0
-1011,Holding Hands Around the World,,,7,,,0,0,0
-1012,"Anytime, Anywhere",,,1,,,0,0,0
-1013,God's Gracious Love,,,7,2,,0,1,0
-1014,My Shepherd Will Supply My Need,,,9,3,,0,1,0
-1015,"Oh, the Deep, Deep Love of Jesus",,,1,,,0,1,0
-1016,Behold the Wounds in Jesus' Hands,,,7,3,,1,0,0
-1017,This Is the Christ,,,9,,,0,0,0
-1018,"Come, Lord Jesus",,,9,,,0,0,0
+1009,Gethsemane,,2:46,7,,,0,0,0
+1010,Amazing Grace,,2:08,10,,,0,1,0
+1011,Holding Hands Around the World,,2:21,7,,,0,0,0
+1012,"Anytime, Anywhere",,1:06,1,,,0,0,0
+1013,God's Gracious Love,,3:06,7,2,,0,1,0
+1014,My Shepherd Will Supply My Need,,3:20,9,3,,0,1,0
+1015,"Oh, the Deep, Deep Love of Jesus",,2:23,6,,,0,1,0
+1016,Behold the Wounds in Jesus' Hands,,3:32,7,3,,1,0,0
+1017,This Is the Christ,,2:30,9,,,0,0,0
+1018,"Come, Lord Jesus",,2:14,9,,,0,0,0
 1201,Hail the Day that Sees Him Rise,,2:55,9,3,,0,0,1
 1202,"He is Born, the Divine Christ Child",,2:06,9,3,,0,0,1
 1203,What Child is This,,2:32,10,3,,0,0,1
